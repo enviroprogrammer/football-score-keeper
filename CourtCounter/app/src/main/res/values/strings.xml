@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">American Football Score Keeper</string>
+    <string name="touchdown_button">Touchdown</string>
+    <string name="field_goal_button">Field Goal</string>
+    <string name="safety_button">Safety</string>
+    <string name="extra_pt_button">Extra Point</string>
+    <string name="score">0</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="reset_button">Reset</string>
+</resources>
